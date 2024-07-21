@@ -1,0 +1,19 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "type": "module",
+  "module": "./app/main.ts",
+  "private": true,
+  "scripts": {
+    "dev": "tsup"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@microsoft/api-extractor": "^7.47.2",
+    "@types/node": "latest",
+    "tsup": "8.2.1",
+    "typescript": "^5.5.3"
+  }
+}
